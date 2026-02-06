@@ -51,11 +51,12 @@ h3 {
 
 /* ===== Hero Section ===== */
 #hero {
-  min-height: 100vh;
+  padding: 60px 15%;
   display: flex;
-  flex-direction: column;
-  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
 }
+
 
 #hero p {
   max-width: 600px;
